@@ -1,0 +1,19 @@
+{
+  "name": "chapter3",
+  "version": "1.0.0",
+  "description": "this is test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"khanhkid\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanhKid/nodejslearning.git"
+  },
+  "author": "kid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhanhKid/nodejslearning/issues"
+  },
+  "homepage": "https://github.com/KhanhKid/nodejslearning#readme"
+}
